@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="gb2312"?>
+<boards>
+    <board id="1">信息中心</board>
+    <board id="2">信息办</board>
+    <board id="3">计财处</board>
+    <board id="4">研究生所</board>
+    <board id="5">人事处</board>
+    <board id="6">教务信息</board>
+    <board id="7">本科招生</board>
+    <board id="8">学生处</board>
+    <board id="9">图书馆</board>
+    <board id="10">后勤处</board>
+    <board id="11">饮食中心</board>
+    <board id="12">基建办</board>
+    <board id="13">微点软件反馈</board>
+    <board id="14">发展规划办</board>
+    <board id="15">社会科学研究管理处</board>
+    <board id="16">共青团12355服务热线</board>
+</boards>

@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $("#testButton3").click(function(){
+                $.post("deleteServlet",{
+
+                    },
+                    function(data){
+
+                    });
+            });
+        });
+    </script>
+</head>
+<body>
+<input type="button" id="testButton3" name="testButton3" value="testButton"/>
+</body>
+</html>

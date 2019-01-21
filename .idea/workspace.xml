@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mess_board:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8e1a2f4-7c74-4fa3-971c-22680bcf141d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-394734337">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="5" />
+          <entry key="java" value="18" />
+          <entry key="jsp" value="13" />
+          <entry key="xml" value="71" />
+          <entry key="xsl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="JAVA" value="18" />
+          <entry key="JSP" value="13" />
+          <entry key="XML" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="html" value="28" />
+          <entry key="java" value="1670" />
+          <entry key="jsp" value="3048" />
+          <entry key="xml" value="235" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="28" />
+          <entry key="JAVA" value="1670" />
+          <entry key="JSP" value="3048" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="XML" value="235" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/message.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2142">
+              <caret line="102" column="66" selection-start-line="102" selection-start-column="66" selection-end-line="102" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/boards.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servlet/BackServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="54" column="29" lean-forward="true" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servlet/AddMessageServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="65" column="37" lean-forward="true" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/servlet/DeleteServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="50" column="59" lean-forward="true" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servlet/KeepSearchServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servlet/TestServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message1.xml" />
+        <option value="$PROJECT_DIR$/web/message2.jsp" />
+        <option value="$PROJECT_DIR$/web/test.html" />
+        <option value="$PROJECT_DIR$/src/servlet/testServlet.java" />
+        <option value="$PROJECT_DIR$/src/servlet/deleteServlet.java" />
+        <option value="$PROJECT_DIR$/src/servlet/backServlet.java" />
+        <option value="$PROJECT_DIR$/src/servlet/addMessageServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/servlet/DeleteServlet.java" />
+        <option value="$PROJECT_DIR$/src/servlet/KeepSearchServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message2.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message3.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message4.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message5.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message6.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message7.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message8.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message9.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message10.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message11.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message12.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message13.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message14.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message15.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message16.xml" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/message.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/message/message1.xml" />
+        <option value="$PROJECT_DIR$/src/servlet/AddMessageServlet.java" />
+        <option value="$PROJECT_DIR$/src/servlet/BackServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="width" value="1935" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mess_board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mess_board" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mess_board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mess_board" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mess_board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mess_board" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mess_board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mess_board" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mess_board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mess_board" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mess_board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mess_board" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="message" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547213503780" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mess_board\web\WEB-INF\message" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mess_board\web" />
+      <recent name="D:\mess_board\web\WEB-INF" />
+      <recent name="D:\mess_board\web\WEB-INF\message" />
+      <recent name="D:\mess_board\src\util" />
+      <recent name="D:\mess_board\web\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.index.jsp">
+    <configuration name="Tomcat 8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="mess_board:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_mess_board" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51074" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mess_board:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
+      <deployment>
+        <artifact name="mess_board:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="index_jsp_mess_board" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49499" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mess_board:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="message.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/message.jsp" />
+      <deployment>
+        <artifact name="mess_board:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="message_jsp_mess_board" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mess_board:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="test.html (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/test.html" />
+      <deployment>
+        <artifact name="mess_board:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="test_html_(1)_mess_board" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mess_board:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="test.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:9999/test.html" />
+      <deployment>
+        <artifact name="mess_board:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="test_html_mess_board" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65075" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mess_board:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 8" />
+      <item itemvalue="Tomcat Server.test.html" />
+      <item itemvalue="Tomcat Server.index.jsp" />
+      <item itemvalue="Tomcat Server.test.html (1)" />
+      <item itemvalue="Tomcat Server.message.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.index.jsp" />
+        <item itemvalue="Tomcat Server.test.html" />
+        <item itemvalue="Tomcat Server.message.jsp" />
+        <item itemvalue="Tomcat Server.test.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8e1a2f4-7c74-4fa3-971c-22680bcf141d" name="Default Changelist" comment="" />
+      <created>1547108588980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547108588980</updated>
+      <workItem from="1547108591787" duration="2609000" />
+      <workItem from="1547111825594" duration="2644000" />
+      <workItem from="1547114557014" duration="18178000" />
+      <workItem from="1547172283277" duration="20418000" />
+      <workItem from="1547213132980" duration="212000" />
+      <workItem from="1547258226688" duration="599000" />
+      <workItem from="1547696309383" duration="1034000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45798000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1548" height="832" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8214286" visible="true" weight="0.27114093" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.17857143" side_tool="true" visible="true" weight="0.27114093" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18168813" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998565" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/boards.xml" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message_page.xsl" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/manager_back.xml" />
+    <entry file="file://$PROJECT_DIR$/web/message2.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/test.html" />
+    <entry file="file://$PROJECT_DIR$/src/util/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message7.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message16.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message8.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message9.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message10.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message11.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message12.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message13.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message14.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message15.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message4.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message5.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message6.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/message.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="102" column="66" selection-start-line="102" selection-start-column="66" selection-end-line="102" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/boards.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/message/message2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/AddMessageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="65" column="37" lean-forward="true" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/KeepSearchServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/TestServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/BackServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="54" column="29" lean-forward="true" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/DeleteServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="50" column="59" lean-forward="true" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mess_board:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mess_board</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
